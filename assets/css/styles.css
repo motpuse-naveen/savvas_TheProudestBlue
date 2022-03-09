@@ -637,11 +637,11 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 70px;
+    font-size: 104px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: 0px;
-    line-height: 115px;
+    letter-spacing: -4px;
+    line-height: 114px;
     margin-right: 72px;
 }
 
@@ -676,11 +676,11 @@ h1.main-heading {
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -136px;
+    margin-top: -275px;
 }
 .moreInfo {
     position: absolute;
-    top: 93px;
+    top: -26px;
     left: 10px;
     z-index: 91;
     background: transparent;
