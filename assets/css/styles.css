@@ -419,6 +419,17 @@ ul.small-bullet li {
     list-style-type: disc;
     margin: 10px 0px;
 }
+
+ul.small-bullet1 {
+    margin-left: 30px;
+}
+
+ul.small-bullet1 li {
+    list-style-type: disc;
+    margin: 10px 0px;
+    text-align: left;
+}
+
 ul.small-circle {
     margin-left: 30px;
 }
