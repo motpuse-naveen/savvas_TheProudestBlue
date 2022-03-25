@@ -438,7 +438,15 @@ ul.small-bullet1 li {
     margin: 10px 0px;
     text-align: left;
 }
+ul.small-bullet2 {
+    margin-left: 30px;
+}
 
+ul.small-bullet2 li {
+    list-style-type: disc;
+    margin: 10px -5px;
+    text-align: left;
+}
 ul.small-circle {
     margin-left: 30px;
 }

@@ -25,11 +25,16 @@ $(document).ready(function () {
 });
 
 $(document).on('click', '.link-learmore', function (event) {
-    event.preventDefault();
+    // $(".container-fs").ShowElement();
+    // lastFocusedElement.focus();
+    $('.container-fs-popup.aboutauthor').HideElement();
+    
     $('.container-fs-popup.disclaimer').ShowElement();
     $(".popup-content-title").focus();
     $(".container-fs").HideElement();
     lastFocusedElement = $(this);
+    event.stopPropagation();
+    event.preventDefault();
 });
 
 
