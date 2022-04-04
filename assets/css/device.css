@@ -26,6 +26,11 @@
         line-height: 104px;
         margin-right: auto;
     }
+    h1 div.subheading {
+        font-size: 32px;
+        letter-spacing: 0px;
+        line-height: 1.5;
+    }
     .popup-content-col .col-md-12 .popup-left-title {
         margin-top: 0;
         text-align: left;
@@ -236,7 +241,7 @@
         padding-top: 0px;
         position: absolute;
         right: 10%;
-        top: 41%;
+        top: 53%;
     }
     .moreInfo-wrapper {
         float: left;
