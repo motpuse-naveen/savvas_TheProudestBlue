@@ -670,8 +670,8 @@ table.table-style2 .trbg {
 
 .rikshaw-girl-text {
     position: relative;
-    padding-top: 90px;
-    padding-left: 90px;
+    padding-top:50px;
+    padding-left: 77px;
     z-index: 12;
 }
 
@@ -681,11 +681,11 @@ h1.main-heading {
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
     letter-spacing: -4px;
-    line-height: 114px;
+    line-height: 104px;
     margin-right: 72px;
 }
 h1 div.subheading{
-    font-size: 24px;
+    font-size: 38px;
     letter-spacing: 0px;
     line-height: 1.5;
 }
@@ -716,7 +716,7 @@ h1 div.subheading{
 .moreInfo-container {
     /*z-index: 10;*/
     position: relative;
-    margin-top: 201px;
+    margin-top: 138px;
 }
 
 .moreInfo-wrapper {
