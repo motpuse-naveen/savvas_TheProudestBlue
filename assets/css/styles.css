@@ -677,17 +677,20 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 104px;
+    font-size: 99px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -4px;
-    line-height: 104px;
+    letter-spacing: -7px;
+    margin-top: 99px;
+    line-height: 155px;
     margin-right: 72px;
 }
 h1 div.subheading{
     font-size: 38px;
     letter-spacing: 0px;
     line-height: 1.5;
+    margin-left: 12px;
+
 }
 
 .author-container {
