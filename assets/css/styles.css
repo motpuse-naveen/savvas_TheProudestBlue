@@ -647,8 +647,8 @@ table.table-style2 .trbg {
 }
 
 .award-circle {
-    /*height: 180px;*/
-    width: 180px;
+    height: 134px;
+    width: 144px;
     background-color: #EBC979;
     border-radius: 50%;
 }
@@ -658,7 +658,7 @@ table.table-style2 .trbg {
     font-family: 'poppins-semibold';
     font-size: 19px;
     text-align: center;
-    line-height: 19px;
+    line-height: 25px;
 }
 
 .side-image-bar {
@@ -686,10 +686,10 @@ h1.main-heading {
     margin-right: 72px;
 }
 h1 div.subheading{
-    font-size: 38px;
+    font-size: 58px;
     letter-spacing: 0px;
     line-height: 1.5;
-    margin-left: 12px;
+    margin-left: 14px;
 
 }
 
@@ -725,7 +725,7 @@ h1 div.subheading{
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -250px;
+    margin-top: -316px;
 }
 .moreInfo {
     position: absolute;
@@ -792,7 +792,7 @@ blockquote {
 
 .orbitdiv-button{
     position: absolute;
-    top: -280px;
+    top: -339px;
     right: -80px;
     width: 234px;
     height: 234px;
