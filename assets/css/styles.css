@@ -308,7 +308,16 @@ a:hover {
     bottom: 0;
     width: 165px;
 }
-
+.side-disclamer11{
+    font-family: "poppins-regular";
+    font-size: 11px;
+    line-height: 15px;
+    margin-left: -200px;
+    margin-right: 11px;
+    position: fixed;
+    bottom: 0;
+    width: 180px;
+}
 .side-disclamer .disctext {
     font-size: 11px !important;
     margin-right: 5px !important;
@@ -318,7 +327,10 @@ a:hover {
     font-size: 11px !important;
     margin-right: 5px !important;
 }
-
+.side-disclamer11 .disctext {
+    font-size: 11px !important;
+    margin-right: 5px !important;
+}
 .bold {
     font-family: "poppins-bold";
 }
@@ -447,6 +459,15 @@ ul.small-bullet1 {
 ul.small-bullet1 li {
     list-style-type: disc;
     margin: 10px 0px;
+    text-align: left;
+}
+ul.small-bullet11 {
+    margin-left: 17px;
+}
+
+ul.small-bullet11 li {
+    list-style-type: disc;
+    margin: -1px 0px;
     text-align: left;
 }
 ul.small-bullet2 {
@@ -647,14 +668,14 @@ table.table-style2 .trbg {
 }
 
 .award-circle {
-    height: 134px;
-    width: 144px;
+    height: 146px;
+    width: 149px;
     background-color: #EBC979;
     border-radius: 50%;
 }
 
 .award-circle .award-text {
-    padding: 23px 6px;
+    padding: 38px 6px;
     font-family: 'poppins-semibold';
     font-size: 19px;
     text-align: center;
@@ -677,18 +698,19 @@ table.table-style2 .trbg {
 
 h1.main-heading {
     font-family: 'poppins-semibold';
-    font-size: 99px;
+    font-size: 92px;
     text-shadow: 15px 0px 47px rgb(0 0 0);
     color: #FFFFFF;
-    letter-spacing: -7px;
-    margin-top: 99px;
+    letter-spacing: -3px;
+    margin-top: 104px;
     line-height: 155px;
     margin-right: 72px;
 }
 h1 div.subheading{
-    font-size: 58px;
+    font-size: 64px;
     letter-spacing: 0px;
-    line-height: 1.5;
+    line-height: 1.3;
+    margin-top: -16px;
     margin-left: 14px;
 
 }
@@ -725,11 +747,11 @@ h1 div.subheading{
 .moreInfo-wrapper {
     float: right;
     width: 370px;
-    margin-top: -316px;
+    margin-top: -278px;
 }
 .moreInfo {
     position: absolute;
-    top: -26px;
+    top: 8px;
     left: 10px;
     z-index: 91;
     background: transparent;
@@ -792,7 +814,7 @@ blockquote {
 
 .orbitdiv-button{
     position: absolute;
-    top: -339px;
+    top: -353px;
     right: -80px;
     width: 234px;
     height: 234px;
@@ -893,7 +915,7 @@ background-color: #000000;
 }
 .aboutBook{
     font-size: 15px;
-    font-style: italic;
+    /* font-style: italic; */
 }
 .aboutBook p{margin: 0px;}
 
